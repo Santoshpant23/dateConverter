@@ -1,16 +1,7 @@
 # date_convert
 
-A new Flutter project.
+Hello Everyone, 
 
-## Getting Started
+This is the source of an Android application that is currently live on the Play Store called Date Converter. I have used Flutter to make this Android application. The Nepali Calendar is around 60 years ahead of the English Calendar. So, users who want to convert dates from English Calendar to Nepali Calendar or vice versa can use this Converter app. This application is free to use and the source code is also free to use. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I hope this application will make date converting experience of people smooth and easy.
